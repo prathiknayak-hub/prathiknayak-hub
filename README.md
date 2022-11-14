@@ -30,6 +30,6 @@
 ![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-c4c4c4?style=flat-square&logo=visualstudiocode&logoColor=blue)
 
 ## Connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-VineethDShetty-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathik-nayak-940a44192/)](https://www.linkedin.com/in/prathik-nayak-940a44192/)
-[![Twitter Badge](https://img.shields.io/badge/-VineethDShettyTwitter-c4c4c4?style=flat-square&labelColor=c4c4c4&logo=twitter&link=https://twitter.com/PrathikNayak03)](https://twitter.com/PrathikNayak03)
+[![Linkedin Badge](https://img.shields.io/badge/-PrathikNayak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathik-nayak-940a44192/)](https://www.linkedin.com/in/prathik-nayak-940a44192/)
+[![Twitter Badge](https://img.shields.io/badge/-PrathikNayakTwitter-c4c4c4?style=flat-square&labelColor=c4c4c4&logo=twitter&link=https://twitter.com/PrathikNayak03)](https://twitter.com/PrathikNayak03)
 
